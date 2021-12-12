@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niconomics
-- 👀 I’m interested in Solidity and Blockchain Development
+- 👀 I’m interested in Crypto NFTs/DeFi trading, Solidity and Blockchain Development
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Crypto Projects
 - 📫 How to reach me, several points of contact here ---> https://linktr.ee/Niconomics
